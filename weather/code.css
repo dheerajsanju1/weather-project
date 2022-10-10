@@ -1,0 +1,69 @@
+body
+{
+    margin: 0;
+    background-image: url('9.jpg');
+}
+.main
+{
+    width: 100%;
+    height:100px;
+    padding: 1px;
+    text-align: center;
+}
+.head
+{
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Alkalami', serif; 
+}
+.head img
+{
+    width: 186px;
+    height: 160px;
+    float: left;
+}
+.main p
+{
+    text-align: center;
+    font-family: 'Lora', serif;
+    font-size: 20px;  
+}
+.inner
+{
+    width: 1000px;
+    height: 100px;
+    margin: auto;
+    margin-top: 60px;
+}
+.inner form input
+{
+     border-radius: 36px;
+     width: 20%;
+     padding: 15px;
+     border: 1px solid;
+}
+.inner .button
+{
+    width: 10%;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 13px;
+    color: white;
+    text-decoration: underline;
+    background-color:#5C7997;
+}
+.out
+{
+    background-color: #D9DDDC;
+    border: 3px #5C7997 solid;
+    border-radius: 30px;
+    width: 500px;
+    text-align: center;
+    margin: auto;
+    font-family: system-ui;
+}
+.out img
+{
+    float: left;
+    width: 125px;
+    height: 127px;
+}
